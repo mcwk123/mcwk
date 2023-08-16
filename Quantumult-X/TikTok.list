@@ -1,19 +1,18 @@
-# TikTok
-HOST,p16-tiktokcdn-com.akamaized.net,TikTok
-HOST-SUFFIX,byteoversea.com,TikTok
-HOST-SUFFIX,ibytedtos.com,TikTok
-HOST-SUFFIX,ibyteimg.com,TikTok
-HOST-SUFFIX,ipstatp.com,TikTok
-HOST-SUFFIX,muscdn.com,TikTok
-HOST-SUFFIX,musical.ly,TikTok
-HOST-SUFFIX,sgpstatp.com,TikTok
-HOST-SUFFIX,snssdk.com,TikTok
-HOST-SUFFIX,tik-tokapi.com,TikTok
-HOST-SUFFIX,tiktok.com,TikTok
-HOST-SUFFIX,tiktokcdn.com,TikTok
-HOST-SUFFIX,tiktokv.com,TikTok
-HOST-KEYWORD,-tiktokcdn-com,TikTok
-HOST-KEYWORD,musical.ly,TikTok
-HOST-KEYWORD,tiktok,TikTok
-HOST-KEYWORD,tiktokv,TikTok
-USER-AGENT,TikTok*,TikTok
+haijiao.com##.van-swipe__track
+haijiao.com##div.van-swipe-item > [src^="data:image/png;base64,"]
+haijiao.com##.addbox > div
+haijiao.com##.btnbox > div
+haijiao.com##.crossbutton
+haijiao.com##.bannerliststyle
+caoliu1024.com##.recharge-btn
+caoliu1024.com##.user-activate.share
+caoliu1024.com##.nogallery
+caoliu1024.com##.my_wrap
+caoliu1024.com##form > .t222.t > .tr1 > .black.tips > div.open_inapp.f_one.sptable_do_not_remove
+caoliu1024.com##form > .t222.t > .t222.t > .t222.t > .t222.t > .t222.t > .t222.t > .tr1 > .black.tips > div.open_inapp.f_one.sptable_do_not_remove
+caoliu1024.com##form > .t222.t > .t222.t > .t222.t > .t222.t > .t222.t > .t222.t > .t222.t > .t222.t > .t222.t > .t222.t > .t222.t > .tr1 > .black.tips > div.open_inapp.f_one.sptable_do_not_remove
+caoliu1024.com##.t222.t > .t222.t > .t222.t > .t222.t > .t222.t > .t222.t > .t222.t > .t222.t > .t222.t > .t222.t > .t222.t > .t222.t > .tr1 > .black.tips > div.open_inapp.f_one.sptable_do_not_remove
+h5.fi11sm304.com##div.van-swipe-item > .van-image > .van-image__img
+h5.fi11sm304.com##div.van-swipe-item > .van-image
+||mj.pki.net.cn/img/maomi_app.gif$image
+18comic.vip##[src="https://18comic.vip/templates/frontend/airav/img/app_link3.png?v=3"]
