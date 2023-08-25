@@ -16,3 +16,7 @@ h5.fi11sm304.com##div.van-swipe-item > .van-image > .van-image__img
 h5.fi11sm304.com##div.van-swipe-item > .van-image
 ||mj.pki.net.cn/img/maomi_app.gif$image
 18comic.vip##[src="https://18comic.vip/templates/frontend/airav/img/app_link3.png?v=3"]
+jm-comic2.club##[src="/templates/frontend/airav/img/app_link3.png?v=3"]
+jm-comic2.club##.visible-sm.visible-xs.bot-per
+jm-comic2.club##div.col-xs-6 > .e8c78e-4_b [href]
+jm-comic2.club##.speed_btn.btn-primary.btn.center.visible-sm.visible-xs
