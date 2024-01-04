@@ -3,7 +3,7 @@
 #!system=ios
 
 [MITM]
-hostname = mobwsa.ximalaya.com, ifac*.iqiyi.com
+hostname = passport.ximalaya.com, ifac*.iqiyi.com
 
 [Script]
 喜马拉雅 = type=http-request, pattern=^https?:\/\/.*\/mobile\-user\/homePage\/.*,script-path=https://raw.githubusercontent.com/chavyleung/scripts/master/ximalaya/ximalaya.cookie.js
