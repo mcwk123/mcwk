@@ -20,3 +20,5 @@ jm-comic2.club##[src="/templates/frontend/airav/img/app_link3.png?v=3"]
 jm-comic2.club##.visible-sm.visible-xs.bot-per
 jm-comic2.club##div.col-xs-6 > .e8c78e-4_b [href]
 jm-comic2.club##.speed_btn.btn-primary.btn.center.visible-sm.visible-xs
+18comic.vip###a35c7-1_4_RotateIt
+18comic.vip##.a35c7-1_4_sticky2 > .a35c7-1_4
