@@ -26,6 +26,7 @@
         "0 7 * * * https://raw.githubusercontent.com/shufflewzc/faker2/51df277cb83a5309704171cee213311f4f0139d9/jd_speed_sign.js, tag=京东极速赚金币 , img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png",
         "20 0,22 * * * https://raw.githubusercontent.com/mcwk123/jdjiaobeng/main/Script/jd_scripts/jd_speed_redpocke.js, tag=京东极速签到领红包 , img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png",
         "20 9 * * * https://raw.githubusercontent.com/NobyDa/Script/master/iQIYI-DailyBonus/iQIYI.js, tag=爱奇艺 , img-url=https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/iQIYI.png",
-        "15 0,7,15 * * * https://gist.githubusercontent.com/ddgksf2013/32b3d37d78433a34370cbfb69780160d/raw/glados.js, tag=GLaDOS , img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/mini/GLaDOS.png"
+        "15 0,7,15 * * * https://gist.githubusercontent.com/ddgksf2013/32b3d37d78433a34370cbfb69780160d/raw/glados.js, tag=GLaDOS , img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/mini/GLaDOS.png",
+        "20 7 * * * https://raw.githubusercontent.com/WowYiJiu/Personal/main/Script/burning.js, tag=超燃汇, img-url=https://raw.githubusercontent.com/WowYiJiu/Personal/main/icon/burning.png"
     ]
 }
