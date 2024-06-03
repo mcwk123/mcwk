@@ -7,6 +7,7 @@ payload:
   - DOMAIN-SUFFIX,gum.criteo.com
   - DOMAIN-SUFFIX,cdn2.inner-active.mobi
   - DOMAIN-SUFFIX,cdn-f.adsmoloco.com
+  - DOMAIN-SUFFIX,inmobicdn.net
   - DOMAIN-SUFFIX,kochava.com
   - DOMAIN-SUFFIX,tktn.be
   - DOMAIN-SUFFIX,cohere.com
