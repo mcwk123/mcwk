@@ -5,6 +5,8 @@ payload:
   - DOMAIN-SUFFIX,crashlytics.com
   - DOMAIN-SUFFIX,talkatone.com
   - DOMAIN-SUFFIX,gum.criteo.com
+  - DOMAIN-SUFFIX,cdn2.inner-active.mobi
+  - DOMAIN-SUFFIX,cdn-f.adsmoloco.com
   - DOMAIN-SUFFIX,kochava.com
   - DOMAIN-SUFFIX,tktn.be
   - DOMAIN-SUFFIX,cohere.com
