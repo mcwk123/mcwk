@@ -1,24 +1,22 @@
 # > Talkatone
 payload:
-  - DOMAIN-SUFFIX,mobilefuse.com
-  - DOMAIN-SUFFIX,inmobi.com
-  - DOMAIN-SUFFIX,crashlytics.com
-  - DOMAIN-SUFFIX,talkatone.com
-  - DOMAIN-SUFFIX,gum.criteo.com
-  - DOMAIN-SUFFIX,cdn2.inner-active.mobi
-  - DOMAIN-SUFFIX,cdn-f.adsmoloco.com
-  - DOMAIN-SUFFIX,inmobicdn.net
-  - DOMAIN-SUFFIX,bidswitch.net
-  - DOMAIN-SUFFIX,atmoatads.com
-  - DOMAIN-SUFFIX,imgx.jampp.com
-  - DOMAIN-SUFFIX,gstatic.com
-  - DOMAIN-SUFFIX,kochava.com
-  - DOMAIN-SUFFIX,tktn.be
-  - DOMAIN-SUFFIX,cohere.com
-  - DOMAIN-SUFFIX,ip-api.com
-  - DOMAIN-SUFFIX,agkn.com
-  - DOMAIN-SUFFIX,tktn.at
-  - IP-CIDR,50.117.27.0/24
-  - IP-CIDR,69.46.75.0/24
-  - IP-CIDR,205.164.56.0/24
-  - IP-CIDR,63.251.124.0/24
+  # 以下是域名规则
+  - DOMAIN-SUFFIX,tktn.at,DIRECT
+  - DOMAIN-SUFFIX,tktn.be,DIRECT
+  # 以下规则其实可以走直连
+  - DOMAIN-SUFFIX,agkn.com,DIRECT
+  - DOMAIN-SUFFIX,cohere.com,DIRECT
+  - DOMAIN-SUFFIX,crashlytics.com,DIRECT
+  - DOMAIN-SUFFIX,inmobi.com,DIRECT
+  - DOMAIN-SUFFIX,inner-active.mobi,DIRECT
+  - DOMAIN-SUFFIX,ip-api.com,DIRECT
+  - DOMAIN-SUFFIX,kochava.com,DIRECT
+  - DOMAIN-SUFFIX,mobilefuse.com,DIRECT
+  - DOMAIN-SUFFIX,talkatone.com,DIRECT
+
+  # 以下是 IP-CIDR 规则
+  - IP-CIDR,205.164.56.0/24,DIRECT,no-resolve
+  - IP-CIDR,216.172.154.0/24,DIRECT,no-resolve
+  - IP-CIDR,50.117.27.0/24,DIRECT,no-resolve
+  - IP-CIDR,63.251.124.0/24,DIRECT,no-resolve
+  - IP-CIDR,69.46.75.0/24,DIRECT,no-resolve
