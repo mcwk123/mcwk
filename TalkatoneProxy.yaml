@@ -1,4 +1,4 @@
-# > Talkatone
+# > Talkatone全局规则
 payload:
   # 以下是域名规则
   - DOMAIN-SUFFIX,tktn.at,DIRECT
