@@ -1,4 +1,4 @@
-#!desc=Talkatone 直连规则
+# > Talkatone 直连规则要搭配仅代理使用
 payload:
   - DOMAIN-SUFFIX,agkn.com
   - DOMAIN-SUFFIX,cohere.com
