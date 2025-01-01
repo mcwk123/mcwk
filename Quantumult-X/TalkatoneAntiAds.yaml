@@ -1,4 +1,4 @@
-#!desc=Talkatone 去广告规则
+# > Talkatone 去广告规则
 payload:
   - DOMAIN-KEYWORD,googleads
   - DOMAIN-SUFFIX,ads.inmobi.com
