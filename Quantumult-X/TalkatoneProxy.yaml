@@ -1,18 +1,18 @@
 # > Talkatone全局规则必须高质量干净节点
 payload:
   # 以下是域名规则
-  - DOMAIN-SUFFIX,tktn.at,DIRECT
-  - DOMAIN-SUFFIX,tktn.be,DIRECT
+  - DOMAIN-SUFFIX,tktn.at
+  - DOMAIN-SUFFIX,tktn.be
   # 以下规则其实可以走直连
-  - DOMAIN-SUFFIX,agkn.com,DIRECT
-  - DOMAIN-SUFFIX,cohere.com,DIRECT
-  - DOMAIN-SUFFIX,crashlytics.com,DIRECT
-  - DOMAIN-SUFFIX,inmobi.com,DIRECT
-  - DOMAIN-SUFFIX,inner-active.mobi,DIRECT
-  - DOMAIN-SUFFIX,ip-api.com,DIRECT
-  - DOMAIN-SUFFIX,kochava.com,DIRECT
-  - DOMAIN-SUFFIX,mobilefuse.com,DIRECT
-  - DOMAIN-SUFFIX,talkatone.com,DIRECT
+  - DOMAIN-SUFFIX,agkn.com
+  - DOMAIN-SUFFIX,cohere.com
+  - DOMAIN-SUFFIX,crashlytics.com
+  - DOMAIN-SUFFIX,inmobi.com
+  - DOMAIN-SUFFIX,inner-active.mobi
+  - DOMAIN-SUFFIX,ip-api.com
+  - DOMAIN-SUFFIX,kochava.com
+  - DOMAIN-SUFFIX,mobilefuse.com
+  - DOMAIN-SUFFIX,talkatone.com
 
   # 以下是 IP-CIDR 规则
   - IP-CIDR,205.164.56.0/24,DIRECT,no-resolve
