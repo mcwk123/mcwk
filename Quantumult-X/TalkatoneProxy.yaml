@@ -1,4 +1,4 @@
-# > Talkatone全局规则必须高质量干净节点
+# > Talkatone 全局规则必须高质量干净节点
 payload:
   # 以下是域名规则
   - DOMAIN-SUFFIX,tktn.at
