@@ -2,7 +2,6 @@
 payload:
   - DOMAIN-SUFFIX,wishub-x6.ctyun.cn
   - DOMAIN-SUFFIX,liangjiewis.com
-  - DOMAIN-SUFFIX,integrate.api.nvidia.com
   - DOMAIN-SUFFIX,openai.good.hidns.vip
   - DOMAIN-SUFFIX,api.uglycat.cc
   - DOMAIN-SUFFIX,apis.iflow.cn
@@ -24,5 +23,3 @@ payload:
   - DOMAIN-SUFFIX,github.io
   - DOMAIN-SUFFIX,collector.github.com
   - DOMAIN-SUFFIX,api.github.com
-  - DOMAIN-SUFFIX,telegraph.aa11778378.workers.dev
-  - DOMAIN-SUFFIX,image.pressindo.eu.org
