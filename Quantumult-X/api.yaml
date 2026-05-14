@@ -1,13 +1,5 @@
-# > 各种api连接接口固定台湾节点
+# > 没啥用
 payload:
-  - DOMAIN-SUFFIX,wishub-x6.ctyun.cn
-  - DOMAIN-SUFFIX,liangjiewis.com
-  - DOMAIN-SUFFIX,openai.good.hidns.vip
-  - DOMAIN-SUFFIX,api.uglycat.cc
-  - DOMAIN-SUFFIX,apis.iflow.cn
-  - DOMAIN-SUFFIX,ollama.com
-  - DOMAIN-SUFFIX,tizenry.xyz
-  - DOMAIN-SUFFIX,ouncenoha.zeabur.app
   - DOMAIN-SUFFIX,new-api.abrdns.com
   - DOMAIN-SUFFIX,marybrown.dpdns.org
   - DOMAIN-SUFFIX,api.siliconflow.cn
